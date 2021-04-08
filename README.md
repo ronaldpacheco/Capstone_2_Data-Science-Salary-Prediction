@@ -15,8 +15,11 @@ This project will be successful once a model that predicts salary is created, al
 
 Data Sources: 
 •	https://www.kaggle.com/andrewmvd/data-analyst-jobs
+
 •	https://www.kaggle.com/andrewmvd/business-analyst-jobs
+
 •	https://www.kaggle.com/atharvap329/glassdoor-data-science-job-data?select=Data_Job_SF.csv
+
 •	https://www.kaggle.com/andrewmvd/data-scientist-jobs
 
 
